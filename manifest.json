@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "version":"1.0",
+    "name": "Lead tracker",
+    "action": {
+        "default_popup":"proj1.html",
+        "default_icon": "lovepik-dollar-png-image_400212645_wh1200.png"
+    }
+} 
